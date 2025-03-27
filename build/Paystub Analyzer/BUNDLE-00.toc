@@ -1,0 +1,4 @@
+([('Paystub Analyzer',
+   '/Users/jrainwater64876/PycharmProjects/PythonProject/ProjectFiles/dist/Paystub '
+   'Analyzer',
+   'EXECUTABLE')],)
