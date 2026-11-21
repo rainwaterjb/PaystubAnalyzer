@@ -1,0 +1,11 @@
+# Runtime dependencies, pinned to versions with no known vulnerabilities (checked with pip-audit).
+# pdfminer.six >= 20251230 fixes CVE-2025-64512 and CVE-2025-70559; cryptography >= 50.0.0 fixes
+# CVE-2026-26007, CVE-2026-34073, CVE-2026-69247/69248/69249 and the bundled-OpenSSL advisory.
+pdfplumber==0.11.11
+pdfminer.six==20260107
+cryptography==50.0.2
+cffi==2.1.1
+charset-normalizer==3.5.2
+pillow==13.0.0
+pycparser==3.12
+pypdfium2==5.15.2
